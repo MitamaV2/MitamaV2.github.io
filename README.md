@@ -9,6 +9,6 @@
 
 [Twitch](https://twitch.tv/MitamaV2)
 
-*Discord:* **멋진 세계#2373**
+*Discord:* **天理の論破王#2373**
 
 ©MitamaV2 2022
