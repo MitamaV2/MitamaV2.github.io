@@ -1,5 +1,5 @@
 # MitamaV2 official webiste
-**「멋진 세계」MitamaV2のウェブサイト**
+**実况チャンネル「トミー」のウェブサイト**
 
 ![icon](./assets/icon.jpg)
 
